@@ -1,0 +1,12 @@
+{
+  "name": "mrx-sync-server",
+  "version": "1.0.0",
+  "description": "MRX-Vision Workspace Sync Server",
+  "main": "mrx-sync-server.js",
+  "scripts": {
+    "start": "node mrx-sync-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
